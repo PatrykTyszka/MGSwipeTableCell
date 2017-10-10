@@ -89,8 +89,6 @@ class MailViewController: UIViewController, UITableViewDataSource, UITableViewDe
         prepareDemoData();
         prepareDemoData();
         prepareDemoData();
-        prepareDemoData();
-        prepareDemoData();
 
         tableView.reloadData();
         refreshControl.endRefreshing();
