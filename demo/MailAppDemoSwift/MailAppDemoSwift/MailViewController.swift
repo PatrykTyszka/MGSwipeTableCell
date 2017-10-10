@@ -87,6 +87,8 @@ class MailViewController: UIViewController, UITableViewDataSource, UITableViewDe
         prepareDemoData();
         prepareDemoData();
         prepareDemoData();
+
+        prepareDemoData();
         prepareDemoData();
         prepareDemoData();
 
